@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+.tunumumi{
+width: 1440px;
+height: 780px;
+padding-top: 91px;
+padding-left: 122px;
+background: #EFEFEF;
+display: flex;
+flex-direction: column;
+}
+.tunzale{
+padding-right: 331px;
+width: 987px;
+height: 93px;
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 55px;
+line-height: 101.38%;
+/* or 56px */
+color: #000000;
+}
+.tmetn{
+    padding-left: 45px;
+    padding-top: 40px;
+    padding-right: 46px;
+    width: 700px;
+    height: 203px;
+    left: 170px;
+    top: 4883px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 150%;
+    /* or 30px */
+    color: #000000;
+}
+.tauthor{
+    
+width: 353px;
+height: 59px;
+left: 371px;
+top: 5136px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 101.38%;
+/* or 30px */
+color: #000000;
+}
+.tuna{
+padding-top: 34px;
+width: 791px;
+height: 451px;
+background: #FFFFFF;
+box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.25);
+border-radius: 30px;
+}
+.tunsec{ 
+    width: 1440px;
+    height: 780px;
+    left: -1px;
+    top: 5405px;
+    background: #9DC9C8;
+}
+.tuni{
+width: 908px;
+height: 66px;
+left: 121px;
+top: 5584px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 55px;
+line-height: 101.38%;
+/* or 56px */
+color: #000000;
+}
+.un{
+    width: 170px;
+height: 32px;
+left: 121px;
+top: 5704px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 101.38%;
+/* or 25px */
+color: #000000;
+}
+.uni{
+    width: 481px;
+height: 181px;
+left: 121px;
+top: 5734px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 80px;
+line-height: 101.38%;
+/* or 81px */
+color: #000000;
+}

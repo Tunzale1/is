@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
-.tunumumi{
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+.tumumi{
 width: 1440px;
 height: 780px;
 padding-top: 91px;
@@ -8,7 +9,7 @@ background: #EFEFEF;
 display: flex;
 flex-direction: column;
 }
-.tunzale{
+.t{
 padding-right: 331px;
 width: 987px;
 height: 93px;
@@ -26,9 +27,6 @@ color: #000000;
     padding-right: 46px;
     width: 700px;
     height: 203px;
-    left: 170px;
-    top: 4883px;
-    
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
@@ -37,29 +35,36 @@ color: #000000;
     /* or 30px */
     color: #000000;
 }
+.tse{
+width: 190px;
+height: 169px;}
+
 .yekaterina{
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
     padding-left: 26px;
-    padding-right: 192px;
+    position: absolute;
+    top: 600px;
 }
-.tauthor{
-    
-width: 353px;
+.tauthor{width: 353px;
 height: 59px;
-left: 371px;
-top: 5136px;
-
+padding-left: 30px;
 font-family: 'Roboto Slab';
 font-style: normal;
 font-weight: 700;
 font-size: 30px;
-line-height: 101.38%;
-/* or 30px */
 color: #000000;
 }
-.tuna{
+.gorek{
+    display: flex;
+    flex-direction: column;
+}
+.tfb{
+width: 32px;
+height: 31px;
+padding-left: 30px;
+}
+.tdiv{
 padding-top: 34px;
 width: 791px;
 height: 451px;
@@ -67,19 +72,28 @@ background: #FFFFFF;
 box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.25);
 border-radius: 30px;
 }
-.tunsec{ 
-    width: 1440px;
+
+
+
+
+.tsec{
+    width: 190px;
+height: 169px;
+padding-left: 26px;
+padding-bottom: 29px;
+}
+.tusec{ 
+    width: 1030px;
     height: 780px;
-    left: -1px;
-    top: 5405px;
+    padding-top:121px ;
+    padding-right:410px ;
+    padding-left: 122px;
+    padding-bottom:185px ;
     background: #9DC9C8;
 }
-.tuni{
+.thead{
 width: 908px;
 height: 66px;
-left: 121px;
-top: 5584px;
-
 font-family: 'Roboto Slab';
 font-style: normal;
 font-weight: 700;
@@ -88,11 +102,10 @@ line-height: 101.38%;
 /* or 56px */
 color: #000000;
 }
-.un{
+.tsto{
     width: 170px;
 height: 32px;
-left: 121px;
-top: 5704px;
+padding-top: 54px;
 font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
@@ -101,16 +114,94 @@ line-height: 101.38%;
 /* or 25px */
 color: #000000;
 }
-.uni{
-    width: 481px;
+.tpul{
+width: 481px;
 height: 181px;
-left: 121px;
-top: 5734px;
 font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
 font-size: 80px;
-line-height: 101.38%;
-/* or 81px */
+position: absolute;
+top: 1175px;
 color: #000000;
+}
+.tcedvel{
+    display:flex;
+    flex-direction: row;
+    padding-top: 200px;
+    padding-right:800px;
+justify-content: space-between;
+width: 650px;
+}
+.tf{
+    width: 294px;
+    height: 32px; 
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 101.38%;
+}
+.tr{
+    width: 294px;
+height: 70px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 101.38%;
+}
+.tun{
+    width: 1440px;
+height: 390px;
+background: #000000;
+padding-left: 122px;
+padding-bottom: 23px;
+}
+ul{
+    color: white;
+    line-height: 2;
+    list-style-type: none;
+}
+li{
+    width: 280px;
+height: 40px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 101.38%;
+}
+.tbas{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-right: 185px;
+    padding-top: 59px;
+}
+.tlogo{
+    padding-bottom: 50px;
+    width: 115px;
+    height: 68px;
+}
+.oglan{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 200px;
+}
+.tson{
+    width: 230px;
+height: 40px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 101.38%;
+/* or 18px */
+padding-top: 146px;
+
+color: #FFFFFF;
+
 }

@@ -184,6 +184,18 @@ line-height: 101.38%;
     width: 115px;
     height: 68px;
 }
+.tphone{
+width: 27px;
+height: 27px;
+}
+.tmail{
+width: 27px;
+height: 18px;
+}
+.qiz{
+ width: 34px;
+height: 34px;
+}
 .oglan{
     display: flex;
     flex-direction: row;

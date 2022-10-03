@@ -37,6 +37,13 @@ color: #000000;
     /* or 30px */
     color: #000000;
 }
+.yekaterina{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 26px;
+    padding-right: 192px;
+}
 .tauthor{
     
 width: 353px;
